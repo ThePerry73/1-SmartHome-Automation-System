@@ -1,0 +1,26 @@
+{
+"name": "ckmf-xigua-2fm",
+"version": "1.0.0",
+"description": "Create an intelligent home automation solution that allows users to control and monitor their home devices through a centralized platform",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/ThePerry73/1-SmartHome-Automation-System.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "ThePerry73",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}

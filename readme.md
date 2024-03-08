@@ -1,0 +1,1 @@
+Create an intelligent home automation solution that allows users to control and monitor their home devices through a centralized platform.
